@@ -13,7 +13,9 @@ export const Header = styled.header`
       margin: 0 auto;
       padding: 20px 15px;
       }
+      
 `;
+
 
   export const BodyContainer = styled.body`
     background-size:cover;
