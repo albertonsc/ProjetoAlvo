@@ -1,11 +1,10 @@
 import React from "react";
-import Menu from './Menu/Menu'
+import Menu from '../Menu/Menu'
 import * as C from './Styles'
 import Logo from '../../assets/Logo.png'
 
 export default function Header (){
 
-    const logo url = '../../assets/Logo.png'
     return(
      <>
     <C.Header>
